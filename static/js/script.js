@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 // Collapsible initialization
- $(document).ready(function(){
+$(document).ready(function(){
     $('.collapsible').collapsible();
 });
 
 // Tooltips initialization
- $(document).ready(function(){
+$(document).ready(function(){
     $('.tooltipped').tooltip();
 });
