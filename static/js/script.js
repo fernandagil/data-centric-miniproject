@@ -9,3 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
     $('.collapsible').collapsible();
 });
 
+// Tooltips initialization
+ $(document).ready(function(){
+    $('.tooltipped').tooltip();
+});
